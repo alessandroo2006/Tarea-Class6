@@ -1,0 +1,14 @@
+C:\Users\munoz\OneDrive\Documents\clase6-program\clas6\bin\Debug\net9.0\clas6.exe
+C:\Users\munoz\OneDrive\Documents\clase6-program\clas6\bin\Debug\net9.0\clas6.deps.json
+C:\Users\munoz\OneDrive\Documents\clase6-program\clas6\bin\Debug\net9.0\clas6.runtimeconfig.json
+C:\Users\munoz\OneDrive\Documents\clase6-program\clas6\bin\Debug\net9.0\clas6.dll
+C:\Users\munoz\OneDrive\Documents\clase6-program\clas6\bin\Debug\net9.0\clas6.pdb
+C:\Users\munoz\OneDrive\Documents\clase6-program\clas6\obj\Debug\net9.0\clas6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\munoz\OneDrive\Documents\clase6-program\clas6\obj\Debug\net9.0\clas6.AssemblyInfoInputs.cache
+C:\Users\munoz\OneDrive\Documents\clase6-program\clas6\obj\Debug\net9.0\clas6.AssemblyInfo.cs
+C:\Users\munoz\OneDrive\Documents\clase6-program\clas6\obj\Debug\net9.0\clas6.csproj.CoreCompileInputs.cache
+C:\Users\munoz\OneDrive\Documents\clase6-program\clas6\obj\Debug\net9.0\clas6.dll
+C:\Users\munoz\OneDrive\Documents\clase6-program\clas6\obj\Debug\net9.0\refint\clas6.dll
+C:\Users\munoz\OneDrive\Documents\clase6-program\clas6\obj\Debug\net9.0\clas6.pdb
+C:\Users\munoz\OneDrive\Documents\clase6-program\clas6\obj\Debug\net9.0\clas6.genruntimeconfig.cache
+C:\Users\munoz\OneDrive\Documents\clase6-program\clas6\obj\Debug\net9.0\ref\clas6.dll
